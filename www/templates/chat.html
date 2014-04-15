@@ -1,0 +1,25 @@
+<ion-content class="horizontal-gradient">
+
+  <div ng-if="!messages">
+    <div class="card">
+      <div class="item item-text-wrap">
+        Say Hi!   </div>
+    </div>
+  </div>
+
+  <div id="messageSection">
+    <ul id="messagesBlock" class="list">
+      <li ng-repeat="message in messages" class="item">{{message.from}}: {{message.message}}</li>
+    </ul>
+  </div>
+</ion-content>
+
+ 
+<div class="bar bar-footer">
+ <label class="item-input-wrapper">
+   <input type="text" ng-model="message" ng-keypress="keyEvent($event)" placeholder="Message">
+ </label>
+ <button class="button button-positive" ng-click="addMessage()">
+   Send
+ </button>
+</div>

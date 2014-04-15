@@ -1,0 +1,14 @@
+<ion-content scroll="false" class="light horizontal-gradient">
+
+<div class="card">
+  <div class="item item-text-wrap">
+    Where would you like to talk today?   </div>
+</div>
+  <google-map center="map.center" zoom="map.zoom" draggable="true" events="map.events">
+  <markers>
+    <marker ng-repeat="marker in markers" coords="marker">
+  </markers>
+  </google-map> 
+  <p> Where would you like to talk today? </p>
+
+</ion-content>

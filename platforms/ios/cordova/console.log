@@ -1,0 +1,44 @@
+2014-04-10 11:42:12.269 HelloCordova[3160:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 11:42:12.275 HelloCordova[3160:80b] Unlimited access to network resources
+2014-04-10 11:42:12.293 HelloCordova[3160:80b] [CDVTimer][statusbar] 5.527020ms
+2014-04-10 11:42:12.293 HelloCordova[3160:80b] [CDVTimer][TotalPluginStartup] 5.788028ms
+2014-04-10 11:42:12.319 HelloCordova[3160:80b] Resetting plugins due to page load.
+2014-04-10 11:42:12.468 HelloCordova[3160:80b] Finished load of: file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/46306ECB-1F7B-4C12-95E5-6F9090CA20E7/HelloCordova.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2014-04-10 16:04:39.297 HelloCordova[5798:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 16:04:39.304 HelloCordova[5798:80b] Unlimited access to network resources
+2014-04-10 16:04:39.323 HelloCordova[5798:80b] [CDVTimer][statusbar] 5.164981ms
+2014-04-10 16:04:39.324 HelloCordova[5798:80b] [CDVTimer][TotalPluginStartup] 5.456030ms
+2014-04-10 16:04:39.382 HelloCordova[5798:80b] Resetting plugins due to page load.
+2014-04-10 16:04:39.708 HelloCordova[5798:80b] Finished load of: file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/index.html#/
+2014-04-10 17:11:11.637 HelloCordova[5798:80b] ERROR: Error: Can't find variable: google
+file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/angular-google-maps/dist/angular-google-maps.js:2489:26
+invoke@file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:11180:22
+file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:12706:49
+forEach@[native code]
+forEach@file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:7773:18
+file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:12704:20
+invoke@file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:11180:22
+file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:11022:43
+getService@file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:11143:46
+addDirective@file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:13752:54
+collectDirectives@file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:13156:23
+compileNodes@file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:13053:39
+compileNodes@file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:13069:27
+compileNodes@file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:13069:27
+compile@file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:12990:27
+updateView@file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:37456:30
+eventHook@file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:37410:27
+$broadcast@file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:19731:33
+file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:31689:32
+wrappedCallback@file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:18435:81
+file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:18521:34
+$eval@file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:19447:28
+$digest@file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:19273:36
+$apply@file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:19553:31
+done@file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:15311:51
+completeRequest@file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:15512:15
+onreadystatechange@file:///Users/c0nrad/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:15455:26
+2014-04-10 17:11:11.638 HelloCordova[5798:80b] ERROR: getControllers@file:///Users/c0nrad/Library/Application<span class="angular-google-map-markers" ng-transclude="">0Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:13532:40
+2014-04-10 17:11:50.889 HelloCordova[5798:80b] ERROR: getControllers@file:///Users/c0nrad/Library/Application<span class="angular-google-map-markers" ng-transclude="">0Support/iPhone%20Simulator/7.0.3/Applications/478365BA-E305-4209-9140-020ADBC93B2C/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js:13532:40
+Terminating in response to SpringBoard's termination.

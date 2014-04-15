@@ -1,0 +1,29 @@
+/* Empty. Add your own CSS if you like */
+
+
+.angular-google-map-container { 
+  height: 600px;
+  width: 100%; 
+}
+
+.landing-background{
+  background-image: url('/img/worldHand.jpg')
+}
+
+.footer-hide .bar-footer, .footer-hide .tabs {
+display: flex;
+}
+.footer-hide .has-footer, .footer-hide .has-tabs {
+bottom: 44px; 
+}
+
+.horizontal-gradient {
+  background: #296ad4;
+  background: -moz-linear-gradient(left, #296ad4 0%, #4e8ef7 100%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #296ad4), color-stop(100%, #4e8ef7));
+  background: -webkit-linear-gradient(left, #296ad4 0%, #4e8ef7 100%);
+  background: -o-linear-gradient(left, #296ad4 0%, #4e8ef7 100%);
+  background: -ms-linear-gradient(left, #296ad4 0%, #4e8ef7 100%);
+  background: linear-gradient(to right, #296ad4 0%, #4e8ef7 100%); 
+}
+
